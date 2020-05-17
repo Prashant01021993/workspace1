@@ -22,6 +22,4 @@ form.addEventListener('submit',function (event){
 );
 
 
-/*resultID.innertext= resultID;*/
-
 
